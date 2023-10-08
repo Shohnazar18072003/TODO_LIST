@@ -1,0 +1,24 @@
+body{
+   background: url('../image/light-bg.avif');
+}
+
+.type-position{
+   background-color: coral !important;
+   color: #fcf807 !important;
+}
+
+.type-married{
+   background-color: rgba(255, 251, 0, 0.829)!important;
+   color: #fc0707 !important;
+}
+
+.type-sort{
+   background-color: green !important;
+   color: #fcf807 !important;
+}
+
+.modal-content{
+   background-color: #fff !important;
+   opacity: 0.65;
+}
+
